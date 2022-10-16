@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bank Sampah</string>
+    <string name="judul"><b>Bank Sampah</b> adalah suatu tempat yang digunakan untuk mengumpulkan sampah yang sudah dipilah-pilah. Hasil dari pengumpulan sampah yang sudah dipilah akan disetorkan ke tempat pembuatan kerajinan dari sampah atau ke tempat Pengepul sampah</string>
+    <string name="deskripsi_jenis">Sampah merupakan hasil produksi manusia yang tidak akan pernah luput dari kehidupan sehari-hari. Lalu, jenis-jenis sampah apa yang biasanya kita hasilkan? Yuk, kenali di sini.\n\nSampah jika dibiarkan saja akan mengganggu kebersihan lingkungan secara umum. Sampah dapat dibedakan menjadi dua macam, yaitu:</string>
+    <string name="anorganik"><b>1. Sampah Anorganik</b>\n\nSampah anorganik adalah sampah yang sudah tidak dipakai lagi dan sulit terurai. Sampah anorganik yang tertimbun di tanah dapat menyebabkan pencemaran tanah karena sampah anorganik tergolong zat yang sulit terurai dan sampah itu akan tertimbun dalam tanah dalam waktu lama, ini menyebabkan rusaknya lapisan tanah.\n\nContoh dari sampah anorganik adalah plastik, botol / kaleng minuman, kresek, ban bekas, besi, kaca, kabel, barang elektronik, bohlam lampu dan plastik. Memang sampah anorganik sulit terurai tetapi dapat anda manfaatkan kembali, jangan sampai dibiarkan begitu saja.</string>
+    <string name="organik"><b>2. Sampah Organik </b>\n\nSampah organik adalah sampah yang berasal dari sisa mahkluk hidup yang mudah terurai secara alami tanpa proses campur tangan manusia untuk dapat terurai.Sampah organik bisa dikatakan sebagai sampah ramah lingkungan bahkan jenis sampah ini bisa diolah kembali menjadi suatu yang bermanfaat bila dikelola dengan tepat.Tetapi sampah bila tidak dikelola dengan benar akan menimbulkan penyakit dan bau yang kurang sedap hasil dari pembusukan sampah organik yang cepat.\n\nContoh dari sampah organik adalah buah-buahan yang sudah tidak layak dimakan, sayur-sayuran kering, kulit buah-buahan, sisa makanan yang tersisa, nasi basi, dan sebagainya.</string>
+    <string-array name="kategori_sampah">
+        <item>Plastik</item>
+        <item>Kaca</item>
+        <item>Kertas</item>
+        <item>Karet</item>
+    </string-array>
+    <string-array name="harga_perkilo">
+        <item>2000</item>
+        <item>2500</item>
+        <item>1000</item>
+        <item>1200</item>
+    </string-array>
+</resources>
